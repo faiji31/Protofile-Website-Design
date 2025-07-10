@@ -68,3 +68,34 @@ nav ul{
     background-repeat: no-repeat;
     background-position: top left , bottom right;
 }
+.about-h3{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.about-p{
+    font-size: 18px;
+    font-weight:lighter;
+    color: #757575;
+}
+.bg{
+    background-color: #FFF8F3;
+}
+.about{
+    border-radius: 10px;
+     padding: 131px 156px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+   
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: bold;
+}
